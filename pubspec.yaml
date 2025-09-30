@@ -1,0 +1,41 @@
+name: storyblok_flutter
+description: A Flutter package for integrating with Storyblok CMS, supporting both mobile and web platforms with visual editor integration.
+version: 1.0.0
+homepage: https://github.com/your-username/storyblok_flutter
+repository: https://github.com/your-username/storyblok_flutter
+issue_tracker: https://github.com/your-username/storyblok_flutter/issues
+
+environment:
+  sdk: ^3.8.1
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^1.5.0
+  meta: ^1.9.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+# Platform-specific dependencies
+flutter:
+  # This package supports both Android, iOS and web
+#  plugin:
+#    platforms:
+#      android:
+#        package: com.yourcompany.storyblok_flutter
+#        pluginClass: StoryblokFlutterPlugin
+#      ios:
+#        pluginClass: StoryblokFlutterPlugin
+#      web:
+#        pluginClass: StoryblokFlutterWeb
+#        fileName: storyblok_bridge.dart
+
+# Example of what would go in your app's pubspec.yaml:
+# dependencies:
+#   storyblok_flutter: ^1.0.0
+#   # For web support, you might also want:
+#   # flutter_web_plugins: any

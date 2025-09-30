@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "384183779621",
+    "project_id": "blipod",
+    "storage_bucket": "blipod.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384183779621:android:3a54cc3849b34ce0265acc",
+        "android_client_info": {
+          "package_name": "com.blipod.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384183779621-gmgl7to8khpiuenov3vdqa24o945jnud.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blipod.app",
+            "certificate_hash": "b8e5a7fe239d67a44d2a95e5de62f019800912f6"
+          }
+        },
+        {
+          "client_id": "384183779621-1j7l1lhei0u3vsjf2irgh3prud945g5f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0vYbdbs1sSJ2xXUmmQCPOeFz9tNwRlL8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "384183779621-1j7l1lhei0u3vsjf2irgh3prud945g5f.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "384183779621-hasnghd0v1ghcbqikl3f5oln7c20jeat.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.blipod.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
